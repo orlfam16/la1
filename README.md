@@ -15,4 +15,6 @@ Bauwerke:
 2. Peterskirche
 3. UNO - City
 
+Mit dem Kommando `gedit....` word der gnome Editor gestartet.
+
 Das ist ein Link [Wikipedia] (https://wikipedia.com).
