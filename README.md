@@ -11,8 +11,8 @@ Autoliste:
 * Vw
 
 Bauwerke:
-1 Pyramiden
-2 Peterskirche
-3 UNO - City
+1. Pyramiden
+2. Peterskirche
+3. UNO - City
 
-Das ist ein Link [Wikipedia] (https//...).
+Das ist ein Link [Wikipedia] (https://wikipedia.com).
